@@ -1,4 +1,4 @@
-# Instagram Clone
+# Vibegrid
 
 A completely Responsive Instagram App- Works on Android, iOS & Web! 
 
@@ -38,5 +38,5 @@ Then run the following commands to run your app:
     
 ## Feedback
 
-If you have any feedback, please reach out to me at namanrivaan@gmail.com
+If you have any feedback, please reach out to me at eddyy2612003@gmail.com
 
